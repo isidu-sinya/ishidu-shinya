@@ -1,0 +1,35 @@
+     /****Header****/
+     header{
+
+
+     }
+
+     .header-inner{
+
+
+     }
+
+     .header-inner ul{
+      align-items: center;
+      list-style: none;
+      display: flex;
+      width: 1200px;
+      margin:0 auto;
+
+     }
+
+     header-inner .hlist-upper{
+      padding: 10px 0px;
+
+     }
+
+     .header-inner ul li{
+      width: 33%;
+
+     }
+
+     .header-inner ul li input{
+      font-size: 15px;
+      padding: 5px;
+
+     }
